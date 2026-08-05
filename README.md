@@ -43,6 +43,41 @@
 ---
 
 
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/xiaozhucchongya-byte/awesome-lead-generation?style=social)](https://github.com/xiaozhucchongya-byte/awesome-lead-generation)
+[![GitHub forks](https://img.shields.io/github/forks/xiaozhucchongya-byte/awesome-lead-generation?style=social)](https://github.com/xiaozhucchongya-byte/awesome-lead-generation/fork)
+[![GitHub issues](https://img.shields.io/github/issues/xiaozhucchongya-byte/awesome-lead-generation)](https://github.com/xiaozhucchongya-byte/awesome-lead-generation/issues)
+[![GitHub license](https://img.shields.io/github/license/xiaozhucchongya-byte/awesome-lead-generation)](https://github.com/xiaozhucchongya-byte/awesome-lead-generation/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
+
+</div>
+
+
+> Awesome lead generation tools - curated list of scrapers and extractors
+
+
+<!-- SEO keywords: awesome lead generation, Awesome Lead Generation -->
+
+
+<div align="center">
+
+[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
+
+✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
+
+⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
+
+</div>
+
+---
+
+
+---
+
+
 > A curated list of the best Lead Generation tools, Google Maps scrapers, business data APIs, email finders, sales intelligence platforms, Local SEO resources, automation tools, AI agents, communities, newsletters, blogs, and learning resources.
 
 ![Awesome](https://awesome.re/badge.svg)
@@ -257,6 +292,58 @@ If this repository helps you, please give it a ⭐ on GitHub.
 MIT License
 
 
+<!-- CROSS_LINKS_START -->
+## 🔗 Related Repositories
+
+Explore our complete web scraping toolkit:
+
+### Instagram Scrapers
+
+- [Instagram Scraper](https://github.com/xiaozhucchongya-byte/instagram-scraper) - Python Instagram scraper - extract posts, profiles, followers, hashtags
+- [Instagram Account Scraper](https://github.com/xiaozhucchongya-byte/instagram-account-scraper) - Instagram account scraper - profiles, posts, reels, stories, emails
+- [Instagram Follower Scraper](https://github.com/xiaozhucchongya-byte/instagram-follower-scraper) - Instagram follower scraper - extract follower and following lists
+- [Instagram Profile Scraper](https://github.com/xiaozhucchongya-byte/instagram-profile-scraper) - Instagram profile scraper - extract profile data and analytics
+- [Scrape Instagram Followers](https://github.com/xiaozhucchongya-byte/scrape-instagram-followers) - Scrape Instagram followers and following lists in bulk
+- [Best Instagram Scraper](https://github.com/xiaozhucchongya-byte/best-instagram-scraper) - Best Instagram scraper 2025 - extract posts, reels, stories, profiles
+- [Apify Instagram Scraper](https://github.com/xiaozhucchongya-byte/apify-instagram-scraper) - Apify Instagram scraper alternative - free Python Instagram scraper
+
+### Google Maps Scrapers
+
+- [Google Maps Data Scraper](https://github.com/xiaozhucchongya-byte/google-maps-data-scraper) - Google Maps data scraper - extract business data, reviews, ratings
+- [Best Google Maps Scraper](https://github.com/xiaozhucchongya-byte/best-google-maps-scraper) - Best Google Maps scraper 2025 - business data extraction tool
+- [Scrape Google Maps](https://github.com/xiaozhucchongya-byte/scrape-google-maps) - Scrape Google Maps - extract places, reviews, and business data
+- [Google Map Scraper Api ](https://github.com/xiaozhucchongya-byte/google-map-scraper-api-) - Google Maps scraper API - REST API for business data extraction
+- [Outscraper Google Maps Scraper](https://github.com/xiaozhucchongya-byte/outscraper-google-maps-scraper) - Outscraper Google Maps scraper alternative - free Python tool
+- [Apify Google Maps Scraper](https://github.com/xiaozhucchongya-byte/apify-google-maps-scraper) - Apify Google Maps scraper alternative - free Python scraper
+
+### E-commerce Scrapers
+
+- [Best Amazon Scraper](https://github.com/xiaozhucchongya-byte/best-amazon-scraper) - Best Amazon scraper 2025 - extract product data, reviews, prices
+- [Best Ebay Scraper](https://github.com/xiaozhucchongya-byte/best-ebay-scraper) - Best eBay scraper 2025 - extract product listings and seller data
+- [Best Walmart Scraper](https://github.com/xiaozhucchongya-byte/best-walmart-scraper) - Best Walmart scraper 2025 - extract product data and reviews
+- [Best Zillow Scraper](https://github.com/xiaozhucchongya-byte/best-zillow-scraper) - Best Zillow scraper 2025 - extract property listings and agent data
+
+### Social Media Scrapers
+
+- [Best Tiktok Scraper](https://github.com/xiaozhucchongya-byte/best-tiktok-scraper) - Best TikTok scraper 2025 - extract videos, profiles, and hashtags
+- [Best Youtube Scraper](https://github.com/xiaozhucchongya-byte/best-youtube-scraper) - Best YouTube scraper 2025 - extract videos, comments, and channel data
+- [Best Facebook Scraper](https://github.com/xiaozhucchongya-byte/best-facebook-scraper) - Best Facebook scraper 2025 - extract pages, posts, and reviews
+- [Best Linkedin Scraper](https://github.com/xiaozhucchongya-byte/best-linkedin-scraper) - Best LinkedIn scraper 2025 - extract profiles, company data, jobs
+- [Best Reddit Scraper](https://github.com/xiaozhucchongya-byte/best-reddit-scraper) - Best Reddit scraper 2025 - extract posts, comments, and user data
+
+### Search & Job Scrapers
+
+- [Best Google Search Scraper](https://github.com/xiaozhucchongya-byte/best-google-search-scraper) - Best Google Search scraper 2025 - extract search results in bulk
+- [Best Indeed Scraper](https://github.com/xiaozhucchongya-byte/best-indeed-scraper) - Best Indeed scraper 2025 - extract job listings and company data
+
+### Scraping Platforms & Lists
+
+- [Best Apify Alternative](https://github.com/xiaozhucchongya-byte/best-apify-alternative) - Best Apify alternative 2025 - free web scraping platform
+- [Awesome Apify Alternatives](https://github.com/xiaozhucchongya-byte/awesome-apify-alternatives) - Awesome Apify alternatives - curated list of web scraping tools
+
+---
+
+
 <!-- INSTALL_SECTION_START -->
 ## 📦 Installation
 
@@ -348,6 +435,9 @@ Explore our complete web scraping toolkit:
 - [Scrape Instagram Followers](https://github.com/xiaozhucchongya-byte/scrape-instagram-followers) - Scrape Instagram followers and following lists in bulk
 - [Best Instagram Scraper](https://github.com/xiaozhucchongya-byte/best-instagram-scraper) - Best Instagram scraper 2025 - extract posts, reels, stories, profiles
 - [Apify Instagram Scraper](https://github.com/xiaozhucchongya-byte/apify-instagram-scraper) - Apify Instagram scraper alternative - free Python Instagram scraper
+- [Scrape Instagram Photos](https://github.com/xiaozhucchongya-byte/scrape-instagram-photos) - Scrape Instagram photos - download photos from any profile in bulk
+- [Instagram Comment Scraper](https://github.com/xiaozhucchongya-byte/instagram-comment-scraper) - Instagram comment scraper - extract comments from posts and reels
+- [Instagram Email Scraper](https://github.com/xiaozhucchongya-byte/instagram-email-scraper) - Instagram email scraper - extract emails from Instagram bios and profiles
 
 ### Google Maps Scrapers
 
@@ -358,9 +448,17 @@ Explore our complete web scraping toolkit:
 - [Outscraper Google Maps Scraper](https://github.com/xiaozhucchongya-byte/outscraper-google-maps-scraper) - Outscraper Google Maps scraper alternative - free Python tool
 - [Apify Google Maps Scraper](https://github.com/xiaozhucchongya-byte/apify-google-maps-scraper) - Apify Google Maps scraper alternative - free Python scraper
 
-### E-commerce Scrapers
+### Amazon Scrapers
 
 - [Best Amazon Scraper](https://github.com/xiaozhucchongya-byte/best-amazon-scraper) - Best Amazon scraper 2025 - extract product data, reviews, prices
+- [Amazon Review Scraper](https://github.com/xiaozhucchongya-byte/amazon-review-scraper) - Amazon review scraper - extract product reviews and ratings in bulk
+- [Amazon Product Scraper](https://github.com/xiaozhucchongya-byte/amazon-product-scraper) - Amazon product scraper - extract product details, images, and specs
+- [Amazon Asin Scraper](https://github.com/xiaozhucchongya-byte/amazon-asin-scraper) - Amazon ASIN scraper - lookup ASIN data and product information
+- [Amazon Price Scraper](https://github.com/xiaozhucchongya-byte/amazon-price-scraper) - Amazon price scraper - track prices and extract pricing history
+- [Amazon Scraper Api](https://github.com/xiaozhucchongya-byte/amazon-scraper-api) - Amazon scraper API - REST API for Amazon data extraction
+
+### E-commerce Scrapers
+
 - [Best Ebay Scraper](https://github.com/xiaozhucchongya-byte/best-ebay-scraper) - Best eBay scraper 2025 - extract product listings and seller data
 - [Best Walmart Scraper](https://github.com/xiaozhucchongya-byte/best-walmart-scraper) - Best Walmart scraper 2025 - extract product data and reviews
 - [Best Zillow Scraper](https://github.com/xiaozhucchongya-byte/best-zillow-scraper) - Best Zillow scraper 2025 - extract property listings and agent data
@@ -384,6 +482,8 @@ Explore our complete web scraping toolkit:
 - [Awesome Apify Alternatives](https://github.com/xiaozhucchongya-byte/awesome-apify-alternatives) - Awesome Apify alternatives - curated list of web scraping tools
 
 ---
+
+<!-- CROSS_LINKS_END -->
 
 
 <!-- STAR_SECTION_START -->

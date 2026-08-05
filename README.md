@@ -255,136 +255,7 @@ Explore our complete web scraping toolkit:
 ### Instagram Scrapers
 
 - [Instagram Scraper](https://github.com/data-scrape/instagram-scraper) - Python Instagram scraper - extract posts, profiles, followers, hashtags
-- [Instagram Account Scraper](https://github.com/data-scrape/instagram-account-scraper) - Instagram account scraper - profiles, posts, reels, stories, emails
-- [Instagram Follower Scraper](https://github.com/data-scrape/instagram-follower-scraper) - Instagram follower scraper - extract follower and following lists
-- [Instagram Profile Scraper](https://github.com/data-scrape/instagram-profile-scraper) - Instagram profile scraper - extract profile data and analytics
-- [Scrape Instagram Followers](https://github.com/data-scrape/scrape-instagram-followers) - Scrape Instagram followers and following lists in bulk
-- [Best Instagram Scraper](https://github.com/data-scrape/best-instagram-scraper) - Best Instagram scraper 2025 - extract posts, reels, stories, profiles
-- [Apify Instagram Scraper](https://github.com/data-scrape/apify-instagram-scraper) - Apify Instagram scraper alternative - free Python Instagram scraper
-
-### Google Maps Scrapers
-
-- [Google Maps Data Scraper](https://github.com/data-scrape/google-maps-data-scraper) - Google Maps data scraper - extract business data, reviews, ratings
-- [Best Google Maps Scraper](https://github.com/data-scrape/best-google-maps-scraper) - Best Google Maps scraper 2025 - business data extraction tool
-- [Scrape Google Maps](https://github.com/data-scrape/scrape-google-maps) - Scrape Google Maps - extract places, reviews, and business data
-- [Google Map Scraper Api ](https://github.com/data-scrape/google-map-scraper-api-) - Google Maps scraper API - REST API for business data extraction
-- [Outscraper Google Maps Scraper](https://github.com/data-scrape/outscraper-google-maps-scraper) - Outscraper Google Maps scraper alternative - free Python tool
-- [Apify Google Maps Scraper](https://github.com/data-scrape/apify-google-maps-scraper) - Apify Google Maps scraper alternative - free Python scraper
-
-### E-commerce Scrapers
-
-- [Best Amazon Scraper](https://github.com/data-scrape/best-amazon-scraper) - Best Amazon scraper 2025 - extract product data, reviews, prices
-- [Best Ebay Scraper](https://github.com/data-scrape/best-ebay-scraper) - Best eBay scraper 2025 - extract product listings and seller data
-- [Best Walmart Scraper](https://github.com/data-scrape/best-walmart-scraper) - Best Walmart scraper 2025 - extract product data and reviews
-- [Best Zillow Scraper](https://github.com/data-scrape/best-zillow-scraper) - Best Zillow scraper 2025 - extract property listings and agent data
-
-### Social Media Scrapers
-
-- [Best Tiktok Scraper](https://github.com/data-scrape/best-tiktok-scraper) - Best TikTok scraper 2025 - extract videos, profiles, and hashtags
-- [Best Youtube Scraper](https://github.com/data-scrape/best-youtube-scraper) - Best YouTube scraper 2025 - extract videos, comments, and channel data
-- [Best Facebook Scraper](https://github.com/data-scrape/best-facebook-scraper) - Best Facebook scraper 2025 - extract pages, posts, and reviews
-- [Best Linkedin Scraper](https://github.com/data-scrape/best-linkedin-scraper) - Best LinkedIn scraper 2025 - extract profiles, company data, jobs
-- [Best Reddit Scraper](https://github.com/data-scrape/best-reddit-scraper) - Best Reddit scraper 2025 - extract posts, comments, and user data
-
-### Search & Job Scrapers
-
-- [Best Google Search Scraper](https://github.com/data-scrape/best-google-search-scraper) - Best Google Search scraper 2025 - extract search results in bulk
-- [Best Indeed Scraper](https://github.com/data-scrape/best-indeed-scraper) - Best Indeed scraper 2025 - extract job listings and company data
-
-### Scraping Platforms & Lists
-
-- [Best Apify Alternative](https://github.com/data-scrape/best-apify-alternative) - Best Apify alternative 2025 - free web scraping platform
-- [Awesome Apify Alternatives](https://github.com/data-scrape/awesome-apify-alternatives) - Awesome Apify alternatives - curated list of web scraping tools
-
----
-
-
-<!-- INSTALL_SECTION_START -->
-## 📦 Installation
-
-### Using pip
-
-```bash
-pip install git+https://github.com/data-scrape/awesome-lead-generation.git
-```
-
-### From source
-
-```bash
-git clone https://github.com/data-scrape/awesome-lead-generation.git
-cd awesome-lead-generation
-pip install -e .
-```
-
-### Prerequisites
-
-- Python 3.8+
-- Required packages listed in `requirements.txt`
-
-<!-- INSTALL_SECTION_END -->
-
-
-<!-- USAGE_SECTION_START -->
-## 🚀 Quick Start
-
-### Basic Usage
-
-```python
-# Quick example - see examples/ directory for more
-from awesome_lead_generation import Scraper
-
-scraper = Scraper()
-results = scraper.scrape("your-query")
-print(results)
-```
-
-### CLI Usage
-
-```bash
-# Run from command line
-python -m awesome_lead_generation --query "your-query" --output results.json
-```
-
-> 💡 **Tip**: Check the `examples/` directory for detailed usage examples and the `docs/` folder for full documentation.
-
-<!-- USAGE_SECTION_END -->
-
-
-<!-- FAQ_SECTION_START -->
-## 🤔 FAQ
-
-### Is Awesome Lead Generation legal to use?
-
-This tool is designed for scraping publicly available data. Always review and comply with the target website's Terms of Service and robots.txt. Use responsibly and within legal boundaries.
-
-### Do I need to login to use awesome lead generation?
-
-Most public data can be accessed without login. Some features (like private profiles or stories) may require authentication credentials.
-
-### Will I get banned for using awesome lead generation?
-
-The tool includes built-in rate limiting and proxy support to minimize detection. Always use reasonable delays and respect the target platform's rate limits.
-
-### What data formats does Awesome Lead Generation support?
-
-Output is available in JSON, CSV, and Excel formats. You can also access raw Python data structures for custom processing.
-
-### Can I use awesome lead generation for commercial purposes?
-
-Yes, this project is licensed under the MIT License. However, you are responsible for ensuring your use of scraped data complies with applicable laws and the target platform's terms.
-
-<!-- FAQ_SECTION_END -->
-
-
-<!-- CROSS_LINKS_START -->
-## 🔗 Related Repositories
-
-Explore our complete web scraping toolkit:
-
-### Instagram Scrapers
-
-- [Instagram Scraper](https://github.com/data-scrape/instagram-scraper) - Python Instagram scraper - extract posts, profiles, followers, hashtags
-- [Instagram Account Scraper](https://github.com/data-scrape/instagram-account-scraper) - Instagram account scraper - profiles, posts, reels, stories, emails
+- [Instagram Account Scraper](https://github.com/data-scrape/instagram-account-scraper) - Instagram account scraper - profiles, posts, reels, stories
 - [Instagram Follower Scraper](https://github.com/data-scrape/instagram-follower-scraper) - Instagram follower scraper - extract follower and following lists
 - [Instagram Profile Scraper](https://github.com/data-scrape/instagram-profile-scraper) - Instagram profile scraper - extract profile data and analytics
 - [Scrape Instagram Followers](https://github.com/data-scrape/scrape-instagram-followers) - Scrape Instagram followers and following lists in bulk
@@ -412,24 +283,61 @@ Explore our complete web scraping toolkit:
 - [Amazon Price Scraper](https://github.com/data-scrape/amazon-price-scraper) - Amazon price scraper - track prices and extract pricing history
 - [Amazon Scraper Api](https://github.com/data-scrape/amazon-scraper-api) - Amazon scraper API - REST API for Amazon data extraction
 
-### E-commerce Scrapers
+### LinkedIn Scrapers
+
+- [Best Linkedin Scraper](https://github.com/data-scrape/best-linkedin-scraper) - Best LinkedIn scraper 2025 - extract profiles, company data, jobs
+- [Linkedin Profile Data Scraper](https://github.com/data-scrape/linkedin-profile-data-scraper) - LinkedIn profile data scraper - extract profiles, experience, skills
+- [Linkedin Job Scraper](https://github.com/data-scrape/linkedin-job-scraper) - LinkedIn job scraper - extract job listings, salaries, company info
+- [Linkedin Sales Navigator Scraper](https://github.com/data-scrape/linkedin-sales-navigator-scraper) - LinkedIn Sales Navigator scraper - extract leads and accounts
+- [Linkedin Email Scraper](https://github.com/data-scrape/linkedin-email-scraper) - LinkedIn email scraper - extract emails from LinkedIn profiles
+- [Linkedin Scraper Api](https://github.com/data-scrape/linkedin-scraper-api) - LinkedIn scraper API - REST API for LinkedIn data extraction
+- [Linkedin Post Scraper](https://github.com/data-scrape/linkedin-post-scraper) - LinkedIn post scraper - extract posts, likes, comments, analytics
+
+### YouTube Scrapers
+
+- [Best Youtube Scraper](https://github.com/data-scrape/best-youtube-scraper) - Best YouTube scraper 2025 - extract videos, comments, channel data
+- [Youtube Channel Scraper](https://github.com/data-scrape/youtube-channel-scraper) - YouTube channel scraper - extract channel data, videos, subscribers
+- [Scrape Youtube Comments](https://github.com/data-scrape/scrape-youtube-comments) - Scrape YouTube comments - extract comments from any video
+- [Scrape Youtube Search Results](https://github.com/data-scrape/scrape-youtube-search-results) - Scrape YouTube search results - extract videos, channels, playlists
+- [Youtube Video Scraper Api](https://github.com/data-scrape/youtube-video-scraper-api) - YouTube video scraper API - REST API for video data extraction
+
+### Facebook Scrapers
+
+- [Best Facebook Scraper](https://github.com/data-scrape/best-facebook-scraper) - Best Facebook scraper 2025 - extract pages, posts, and reviews
+- [Facebook Profile Scraper](https://github.com/data-scrape/facebook-profile-scraper) - Facebook profile scraper - extract profiles, friends, photos, posts
+- [Facebook Group Scraper](https://github.com/data-scrape/facebook-group-scraper) - Facebook group scraper - extract group posts, members, discussions
+- [Facebook Marketplace Scraper](https://github.com/data-scrape/facebook-marketplace-scraper) - Facebook Marketplace scraper - extract listings, prices, seller data
+- [Facebook Scrape Website](https://github.com/data-scrape/facebook-scrape-website) - Facebook scrape website - full Facebook data extraction toolkit
+- [Facebook Page Scraper](https://github.com/data-scrape/facebook-page-scraper) - Facebook page scraper - extract page posts, reviews, insights
+- [Facebook Post Scraper](https://github.com/data-scrape/facebook-post-scraper) - Facebook post scraper - extract post data, reactions, comments
+
+### TikTok Scrapers
+
+- [Best Tiktok Scraper](https://github.com/data-scrape/best-tiktok-scraper) - Best TikTok scraper 2025 - extract videos, profiles, hashtags
+- [Apify Tiktok Scraper](https://github.com/data-scrape/apify-tiktok-scraper) - Apify TikTok scraper alternative - free Python TikTok scraper
+- [Tiktok Comment Scraper](https://github.com/data-scrape/tiktok-comment-scraper) - TikTok comment scraper - extract comments from TikTok videos
+- [Tiktok Video Scraper](https://github.com/data-scrape/tiktok-video-scraper) - TikTok video scraper - extract video data, hashtags, trending content
+- [Tiktok Comments Scraper](https://github.com/data-scrape/tiktok-comments-scraper) - TikTok comments scraper - bulk extract comments and replies
+- [Tiktok Data Scraper Api](https://github.com/data-scrape/tiktok-data-scraper-api) - TikTok data scraper API - REST API for TikTok data extraction
+- [Tiktok Profile Scraper](https://github.com/data-scrape/tiktok-profile-scraper) - TikTok profile scraper - extract profiles, followers, video stats
+
+### eBay & E-commerce Scrapers
 
 - [Best Ebay Scraper](https://github.com/data-scrape/best-ebay-scraper) - Best eBay scraper 2025 - extract product listings and seller data
+- [Ebay Web Scraper](https://github.com/data-scrape/ebay-web-scraper) - eBay web scraper - extract product listings, prices, seller data
+- [Ebay Price Scraper](https://github.com/data-scrape/ebay-price-scraper) - eBay price scraper - track prices and extract sold item history
+- [Scrap Gold Ebay](https://github.com/data-scrape/scrap-gold-ebay) - Scrap gold eBay - extract gold and precious metal listings
 - [Best Walmart Scraper](https://github.com/data-scrape/best-walmart-scraper) - Best Walmart scraper 2025 - extract product data and reviews
 - [Best Zillow Scraper](https://github.com/data-scrape/best-zillow-scraper) - Best Zillow scraper 2025 - extract property listings and agent data
-
-### Social Media Scrapers
-
-- [Best Tiktok Scraper](https://github.com/data-scrape/best-tiktok-scraper) - Best TikTok scraper 2025 - extract videos, profiles, and hashtags
-- [Best Youtube Scraper](https://github.com/data-scrape/best-youtube-scraper) - Best YouTube scraper 2025 - extract videos, comments, and channel data
-- [Best Facebook Scraper](https://github.com/data-scrape/best-facebook-scraper) - Best Facebook scraper 2025 - extract pages, posts, and reviews
-- [Best Linkedin Scraper](https://github.com/data-scrape/best-linkedin-scraper) - Best LinkedIn scraper 2025 - extract profiles, company data, jobs
-- [Best Reddit Scraper](https://github.com/data-scrape/best-reddit-scraper) - Best Reddit scraper 2025 - extract posts, comments, and user data
 
 ### Search & Job Scrapers
 
 - [Best Google Search Scraper](https://github.com/data-scrape/best-google-search-scraper) - Best Google Search scraper 2025 - extract search results in bulk
 - [Best Indeed Scraper](https://github.com/data-scrape/best-indeed-scraper) - Best Indeed scraper 2025 - extract job listings and company data
+
+### Social & Other
+
+- [Best Reddit Scraper](https://github.com/data-scrape/best-reddit-scraper) - Best Reddit scraper 2025 - extract posts, comments, user data
 
 ### Scraping Platforms & Lists
 
@@ -439,7 +347,6 @@ Explore our complete web scraping toolkit:
 ---
 
 <!-- CROSS_LINKS_END -->
-
 
 <!-- STAR_SECTION_START -->
 ## ⭐ Support This Project

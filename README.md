@@ -145,6 +145,7 @@ Whether you're building prospecting workflows, generating local business leads, 
 | Zapier | Connect thousands of apps. | https://zapier.com |
 | Activepieces | Open-source automation. | https://activepieces.com |
 | Apify | Build and run scraping Actors. | https://apify.com |
+| OpenSparta | Telegram marketing workspace with Lead Radar to monitor selected communities for buying requests, rank opportunities, and review the original-message evidence. | https://opensparta.com/en |
 
 ---
 

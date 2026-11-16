@@ -97,6 +97,7 @@ Whether you're building prospecting workflows, generating local business leads, 
 | Snov.io | Email finder, verifier and outreach platform. | https://snov.io |
 | Clay | AI-powered lead enrichment platform. | https://clay.com |
 | Dropcontact | GDPR-friendly contact enrichment. | https://dropcontact.com |
+| Founder Email Finder | Founder and owner names and emails from company websites, pay per use. | https://founders.intropi.in |
 
 ---
 

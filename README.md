@@ -96,6 +96,7 @@ Whether you're building prospecting workflows, generating local business leads, 
 | Hunter | Find professional email addresses. | https://hunter.io |
 | Snov.io | Email finder, verifier and outreach platform. | https://snov.io |
 | Clay | AI-powered lead enrichment platform. | https://clay.com |
+| FairValid | Email verification and FairMatch work-contact discovery; 300 shared free monthly credits. | https://fairvalid.com/ |
 | Dropcontact | GDPR-friendly contact enrichment. | https://dropcontact.com |
 
 ---
